@@ -9,7 +9,7 @@ services:
     scheduler:
         image: apache/airflow
         command: scheduler
-        restart: on-failure 
+        restart: on-failure
         depends_on:
             - postgres
         env_file:
