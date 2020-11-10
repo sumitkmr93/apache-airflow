@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Airflow Installation using Docker tutorial
----
 
 ## Getting Started
 
@@ -44,4 +42,3 @@ Go to Admin -> Connections and Edit "postgres_default" set this values:
 - Login : airflow
 - Password : airflow
 
-=======
